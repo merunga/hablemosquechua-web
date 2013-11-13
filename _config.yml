@@ -1,7 +1,6 @@
 name: hablemosquechua
 markdown: redcarpet
 pygments: true
-source:  .
 stylus:
   compress: true
-  path: ./css
+  path: css
