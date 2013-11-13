@@ -4,4 +4,4 @@ pygments: true
 source:  .
 stylus:
   compress: true
-  path: ./styles
+  path: ./css
