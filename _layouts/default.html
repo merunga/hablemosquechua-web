@@ -1,67 +1,69 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ page.title }}</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!doctype html>  
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  
+  <title>{{ page.title }}</title>
 
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+  <!--link rel="shortcut icon" href="/favicon.ico"-->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/main.css">
+  <script src="js/vendor/jquery-1.10.2.min.js"></script>
+  <script src="js/vendor/modernizr-2.6.2.min.js"></script>
 
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="/css/style.css">
-    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-  </head>
-  <body>
-    <!--[if lt IE 7]>
-        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
+</head>
 
-    <header>
+<body>
 
-    </header>
+  <header class="row-fluid">
+    <div>
+      <h1 class="span6"><a href="/">@hablemosquechua</a></h1>
+      <nav id="main-nav" class="span6 pull-right">
+        <ul>
+          <li><a class="alt" href="/acerca-de.html">Acerca de</a></li>
+          <li><a class="alt" href="/como-funciona.html">¿Cómo funciona?</a></li>
+          <li><a class="alt" href="/ejemplos.html">Ejemplos</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
 
-      <div class="top-strip"></div>
-      <div class="content">
-        <main class="container">
-          <div class="row-fluid">
-            <section class="content">
-              <h1>hablemos quechua</h1>
-            </section>
-            <div class="entries">
-              {{content}}
-            </div>
-          </div>
-          <hr>
-        </main>
+  <div id="container" class="row-fluid">  
+
+    <article class="span8">
+      {{content}}
+    </article>
+
+    <aside class="span3 last">
+      <div>
+        <a class="twitter-timeline" href="https://twitter.com/search?q=%40hablemosquechua" data-widget-id="405455406970839040" width="480">Tweets sobre "@hablemosquechua"</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       </div>
+    </aside>
 
-    <footer>
-      <div class="container">
-        &nbsp;
-      </div>
-    </footer>
+  </div> <!--! end of #container -->
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-    <script src="js/plugins.js"></script>
-    <script src="js/main.js"></script>
+  <footer class="row-fluid">
+    <div class="span2">FOOTER</div>
+  </footer>
 
-    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  <script src="js/plugins.js"></script>
 
-      ga('create', 'UA-45732508-1', 'hablemosquechua.org');
-      ga('send', 'pageview');
+  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    </script>
-  </body>
+    ga('create', 'UA-45732508-1', 'hablemosquechua.org');
+    ga('send', 'pageview');
+
+  </script>
+</body>
 </html>
