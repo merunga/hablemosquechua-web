@@ -38,7 +38,7 @@ Inicialmente @hq es administrado por sus creadores, @sankaypillo, @marianocrowe,
 
 De quién es @hablemosquechua?
 
-La cuenta @hablemosquechua es mantenida por sus creadores (@sankaypillo, @marianocrowe, @kikomayorga) y se define como un experimento tecnocultural sin fines de lucro. El actual programa de administración y automatización ha sido desarrollado por @marianocrowe en Javascript (cliente y servidor). El código detrás del robot se encuentra liberado bajo licencia GNU (?) GPL (?) (o Creative Commons?) y puede ser revisado en el siguiente enlace. Quien esté interesado puede muy fàcilmente copiar y modificarlo el código detrás de @hq para sus propios fines.
+El actual programa de administración y automatización ha sido desarrollado por @marianocrowe en Javascript (cliente y servidor). El código detrás del robot se encuentra liberado bajo licencia GPL (robot) PD (página) y puede ser revisado en el siguiente enlace. Quien esté interesado puede muy fàcilmente copiar y modificarlo el código detrás de @hq para sus propios fines.
 
 Hay una forma más sencilla de montar una réplica del robot?
 

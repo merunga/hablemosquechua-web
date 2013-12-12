@@ -10,10 +10,10 @@ title: hablemosquechua - ¿Cómo funciona?
 
 Cómo funciona?
 
-## ¡Ya somos 6500 amigos de @hablemosqeuchua! **
+## ¡Ya somos 6500 amigos! **
 * Sigue a [@hablemosquechua](https://twitter.com/hablemosquechua) en twitter
 * ¡Clona y evoluciona hablemosquechua y promueve otras lenguas, dialectos, jergas y otros códigos! 
-* Y a futuro... @hablemosquechua en [facebook](https://facebook.com/hablemosqeuchua) también!
+* y nuestro fanpage en [facebook](https://facebook.com/hablemosqeuchua) también!
 
 ## ¡Participa!
 ¿Qué más puedo hacer?:
