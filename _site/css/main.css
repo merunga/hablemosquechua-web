@@ -85,3 +85,8 @@ iframe[id^='twitter-widget-']{
   min-width: 320px !important;
   margin-left: 10px;
 }
+
+blockquote {
+  text-align: center;
+  font-style: italic;
+}
