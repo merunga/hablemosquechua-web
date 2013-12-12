@@ -36,10 +36,6 @@ Y para qué mas puede servir el desarrollo de software implicado por @hablemosqu
 La plataforma de @hq permite muy facilmente popular otras cuentas de twitter con diccionarios y frases “tipo”. Así por ejemplo una réplica -casi- inmediata de @hablemosquechua, podríaser @hablemosnahuat (posible cuenta que difunda lengua nahuat de centroamérica). También se podría crear cuentas dedicadas al argot de profesiones específicas, como por ejemplo: “@hablemossurfer”, “@hablemosbarrio“ cuenta que podría ser utilizada para promover la jeringa coloquial limeña -por ejemplo.
 
 
-
-
-	
-
            
 Hablemosquechua trabaja con tres tipos de usuarios:
 
@@ -48,37 +44,10 @@ Hablemosquechua trabaja con tres tipos de usuarios:
 3) Responsables: Administradores/Desarrolladores.
 
 
-diccionarios
-frases – secuelas / ràfagas
-preguntas – respuestas y felicitaciones
-horarios – random / secuencial
-programar – calendario – eliminar / reemplazar (a mano y random) / reordenar
-traducciones  - RegEx
-configuracion
-
-Ejemplos:
-- hablatroncher
-la capital de...
-donde queda
-los colores de las banderas.
 
 
  
 
 
-Cómo funciona?
 
-Hablemosquechua trabaja con tres tipos de usuarios:
-
-1) Entusiastas/Estudiantes de la lengua quechua Quechua (hispanohablantes.)
-2) Promotores/Especialistas de la lengua Quechua (quechuahablantes.)
-3) Administradores/Desarrolladores.
-
-Para los usuarios:
-
-Cualquier usuario hispanohablante está invitado a participar de la comunidad de hablemosquechua.
-
-* Recomendamos
-
-Frases:
 

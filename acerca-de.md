@@ -9,20 +9,20 @@ quechua en las redes sociales.
 
 ## ¿qué hace @hablemosquechua?
 
-- emite en forma pseudo-aleatoria frases con términos de diccionarios quechua-español. 
-- funciona como diccionario bajo demanda por twitter-DM (mensajes directos). 
-- juega y explora concursos de vocabulario, gramática y más. 
+- emite en forma pseudo-aleatoria frases en bases a diccionarios quechua-español. 
+- funciona como diccionario interactivo por DM en twitter (mensajes directos). 
+- explora distintas metodologías para concursos de vocabulario, gramática y más. 
 - anuncia y difunde recursos y servicios vinculados a la lengua quechua. 
 
 ## ¿qué busca @hablemosquechua?
 
 - desarrollar una corriente de revaloración del quechua en el mundo digital.
 - potenciar la revaloración de otras lenguas nativas, especiales y/o extrañas :D
-- validar una hipótesis hacker de vida híbrida.
+- validar una hipótesis de vida artificial.
 
 ## ¿cómo empezó @hablemosquechua?
 
-- hablemosquechua despertó en @escuelab a mediados de 2011. un video capturó algunos momentos: [LINK]
+- hablemosquechua nació como idea en @escuelab a mediados de 2011. un video capturó algunos momentos: [LINK]
 
 ## ¿qué quechua usa actualmente la plataforma?
 
