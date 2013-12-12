@@ -35,10 +35,6 @@ quechua en la era de lo instantáneo.
 > Yachaykupunim mana kikinta llapa suyukunapi qillqakusqanta, kayqa ñataq umallisqa huñukuykuna utaq simi yachay kamachiqkuna kayninta hukninta wakniraqninta hinalla mast'ariptinku, hinallataq yupaychaykupuni llapa runakuna machkariwaspanku qhawapawasqankuta mañarikuwasqankutapas sapa rimay ''waqlli qillqasqa kaqmanta''. Llapa Perú suyupi hinallataq Abyayalap uraynin, Latinoamerica nisqapipas, sapa hukniraq rimay kasqanmantaqa hinallataq yachapakunata riqsinakunatapas astawanmi yachaykumanmi, ichaqa kunanqa haywarikuq hinalla huñusqakunam kayku, hinallataq contextos tecnológicos nispapi siminchik imayna mast'arikunantam k'uskispa qhawachkayku. Wakichinaykupiqa kachkapunim robot nisqachata aswan puriyachispa sapan suyupi, imayna rimasqanta astawan kikin kaqta riqsichinapaq.
 >Añayukuykichik pampachasqaykichikta!!!!!
 
-## Quién adminsitra @hablemosquechua?
-
-Inicialmente @hq es administrado por sus creadores, @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que los administradores de la cuenta vayan rotando, considerándose próximamente a los usuarios quechuahablantes más activos y comprometidos con con la misión de difundir la lengua quechua. Si hablas y escribes quechua y estás interesado visibilizar tu capacidad de trabajo con la lengua quechua puedes unirte a @hablemosquehcua y puedes convertirte en co-promotor/administrador de la cuenta. Para mayor información sobre esta posibilidad puedes ponerte en contacto con sankaypillo [arroba] gmail [punto] com 
-
 
 
 ## ¿quiénes cuidan de @hablemosquechua?
@@ -54,5 +50,7 @@ y [@marianocrowe](https://twitter.com/marianocrowe){:target="_blank"} en 2011, e
 [The Foundation for Arts Inniciatives](http://www.ffaiarts.net){:target="_blank"}
 por el apoyo al desarrollo de la primera versión relativamente estable.
 
+## Quién adminsitra @hablemosquechua?
 
+@hq es administrado por sus creadores, @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que los administradores de la roten, incluyéndose próximamente a usuarios quechuahablantes y twitteros activos. Si hablas y escribes quechua y estás interesado en sumarte a la iniciativa puedes convertirte en co-promotor/administrador de la cuenta. Para mayor información sobre esta posibilidad contacta a sankaypillo [arroba] gmail [punto] com. 
 
