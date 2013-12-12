@@ -3,6 +3,7 @@ layout: default
 title: hablemosquechua
 ---
 
+##en construcción... 
 
 El quechua es un idioma vivo, hablado por más de diez millones de personas. 
 [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} es un 
