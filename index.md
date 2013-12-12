@@ -15,4 +15,4 @@ quechua en la era de lo instantáneo.
 
 re-conectando...
 
-
+## ¡Ya somos 6500 los seguidores de [@hablemosquechua](https://twitter.com/hablemosquechua)!!!
