@@ -52,5 +52,10 @@ por el apoyo al desarrollo de la primera versión relativamente estable.
 
 ## Quién adminsitra @hablemosquechua?
 
-@hq es administrado por sus creadores, @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que los administradores de la roten, incluyéndose próximamente a usuarios quechuahablantes y twitteros activos. Si hablas y escribes quechua y estás interesado en sumarte a la iniciativa puedes convertirte en co-promotor/administrador de la cuenta. Para mayor información sobre esta posibilidad contacta a sankaypillo [arroba] gmail [punto] com. 
+Actualmente @hq es administrado por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que los administradores puedan rotar, incluyéndose a otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente, puedes convertirte en co-promotor/administrador de la cuenta. Para mayor información contacta a sankaypillo [arroba] gmail [punto] com. 
+
+## De quién es @hablemosquechua?
+
+La cuenta @hablemosquechua es mantenida por sus creadores (@sankaypillo, @marianocrowe, @kikomayorga) y se define como un experimento tecnocultural sin fines de lucro. El actual programa de administración y automatización ha sido desarrollado por @marianocrowe en Javascript (cliente y servidor). El código detrás del robot se encuentra liberado bajo licencia GNU (?) GPL (?) (o Creative Commons?) y puede ser revisado en el siguiente enlace. Quien esté interesado puede muy fàcilmente copiar y modificarlo el código detrás de @hq para sus propios fines.
+
 
