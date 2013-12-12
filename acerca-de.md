@@ -24,6 +24,24 @@ quechua en las redes sociales.
 
 - hablemosquechua nació como idea en @escuelab a mediados de 2011. un video cuenta la historia [LINK]
 
+
+### ¿quiénes cuidan de @hablemosquechua?
+
+[@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} es un experimento iniciado por
+[@sankaypillo](https://twitter.com/sankaypillo){:target="_blank"},
+[@kikomayorga](https://twitter.com/kikomayorga){:target="_blank"}
+y [@marianocrowe](https://twitter.com/marianocrowe){:target="_blank"} en 2011, en
+[@escuelab](https://twitter.com/escuelab){:target="_blank"} bajo la inspiración de
+[@runasimipi](https://twitter.com/runasimipi){:target="_blank"}. 
+[@hablemosquechua](https://twitter.com/hablemosquechua) agradece especialmente a
+[The Foundation for Arts Inniciatives](http://www.ffaiarts.net){:target="_blank"}
+por el apoyo al desarrollo de la primera versión relativamente estable a finales de 2013.
+
+### ¿quién adminsitra @hablemosquechua?
+
+Actualmente @hq es administrado por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que los administradores puedan rotar, incluyéndose a otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente, puedes convertirte en co-promotor/administrador de la cuenta. Para discutir esta posibilidad contacta a [@sankaypillo](http://twitter.com/sankaypillo). 
+
+
 ### ¿qué quechua usa actualmente la plataforma?
 
 > Sobre la ortografía y la cantidad de vocales usadas por hablemos quechua: Hablemosquechua se disculpa por optar y usar el quechua de la región Cusco-Collao, así mismo por difundir la escritura unificada. Sabemos que el quechua no se habla ni se escribe igual en todos lados, ya sea porque instituciones gubernamentales o linguistas que promueven una y otra manera de escribir y respetamos a las personas que nos contactan y reclaman cuando algo no está ''bien escrito''. Sabemos que es importante estudiar y reconocer las diferentes variantes a nivel Perú y latinoamerica, pero por lo pronto somos un equipo voluntario que explora las posibilidades para nuestra lengua en contextos tecnológicos. Está entre nuestros planes incrementar la funcionalidad del robot para especificar las variantes y casos particulares  que existen en la comunidad quechuahablante latinoamericana.
@@ -36,28 +54,11 @@ quechua en las redes sociales.
 >Añayukuykichik pampachasqaykichikta!!!!!
 
 
+### ¿quién es @hablemosquechua?
 
-### ¿quiénes cuidan de @hablemosquechua?
-
-[@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} es un experimento iniciado por
-[@sankaypillo](https://twitter.com/sankaypillo){:target="_blank"},
-[@kikomayorga](https://twitter.com/kikomayorga){:target="_blank"}
-y [@marianocrowe](https://twitter.com/marianocrowe){:target="_blank"} en 2011, en
-[@escuelab](https://twitter.com/escuelab){:target="_blank"} bajo la inspiración de
-[@Runasimipi](https://twitter.com/Runasimipi){:target="_blank"}
-
-[@hablemosquechua](https://twitter.com/hablemosquechua) agradece a
-[The Foundation for Arts Inniciatives](http://www.ffaiarts.net){:target="_blank"}
-por el apoyo al desarrollo de la primera versión relativamente estable.
-
-### Quién adminsitra @hablemosquechua?
-
-Actualmente @hq es administrado por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que los administradores puedan rotar, incluyéndose a otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente, puedes convertirte en co-promotor/administrador de la cuenta. Para discutir esta posibilidad contacta a [@sankaypillo](http://twitter.com/sankaypillo). 
-
-### Quién es @hablemosquechua?
-
-@hablemosquechua es un experimento tecnocultural sin fines de lucro. El código es liberado bajo licencia GPL. Los sucesivos programas de administración y automatización han sido desarrollados por [@marianocrowe](http://twitter.com/marianocrowe) inicialmente en php, posteriormente en javascript (cliente y servidor), la educación al robot en poesía y lengua quechua se la agradecemos a [@sankaypillo](http://twitter.com/sankaypillo), la idea de un robot venía de [@kikomayorga](http://twitter.com/kikomayorga), pero nada hubiese sucedido sin la ayuda de Jorge Villacorta, José Carlos Mariátegui, @escuelab, @ata (rev), @ffai, y la inspiración de Amos Batto y @runasimipi. 
+@hablemosquechua es un experimento tecnocultural sin fines de lucro. El código es liberado bajo licencia GPL. Los sucesivos programas de automatización y administración han sido desarrollados por [@marianocrowe](http://twitter.com/marianocrowe) inicialmente como maqueta en php, posteriormente en javascript (cliente y servidor), la educación al robot en poesía y lengua quechua se la agradecemos a [@sankaypillo](http://twitter.com/sankaypillo), la idea de un robot venía de [@kikomayorga](http://twitter.com/kikomayorga). Pero nada hubiese sucedido sin la ayuda de Jorge Villacorta, José Carlos Mariátegui, @escuelab, @ata (rev), @ffai, y la inspiración de Amos Batto y @runasimipi. 
 
 El código detrás del robot se encuentra liberado bajo licencia GPL y puede ser revisado en el siguiente enlace [link]. Quien esté interesado puede muy fácilmente copiar y modificar el código de @hq para sus propios fines.
+
 
 
