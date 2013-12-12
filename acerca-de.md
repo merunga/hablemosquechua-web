@@ -1,40 +1,46 @@
 ---
 layout: default
-title: hablemosquechua - Acerca de
+title: hablemosquechua - acercade
 ---
 ## ¿qué es [@hablemosquechua](https://twitter.com/hablemosquechua)?
-La [cuenta twitter](https://twitter.com/hablemosquechua) es mezcla de robot y seres humanos unidos para desempolvar algunos diccionarios, rebotar ideas en el aire y dosificar fragmentos quechua en la era de lo instantáneo.
+La [cuenta twitter](https://twitter.com/hablemosquechua) es la unión de un robot,
+un equipo humano y una comunidad de amigos para reconectar diccionarios y rebotar 
+quechua en las redes sociales.
 
 ## ¿qué hace @hablemosquechua?
 
-* emite en forma aleatoria y automatizada frases que combinan términos de diccionarios quechua-español. 
-* funciona como un diccionario sobre Twitter accesible bajo demanda por DM (mensajes directos). 
-* explora la implantación de concursos de vocabulario y gramática del quechua. 
-* anuncia y difunde recursos web, servicios educativos y profesionales vinculados a la lengua quechua. 
+-emite en forma pseudo-aleatoria frases con términos de diccionarios quechua-español. 
+-funciona como diccionario bajo demanda por twitter-DM (mensajes directos). 
+-juega y explora concursos de vocabulario, gramática y más. 
+-anuncia y difunde recursos y servicios vinculados a la lengua quechua. 
 
 ## ¿qué busca @hablemosquechua?
 
-- desarrollar una corriente de revaloración de nuestras lenguas ancestrales en el mundo digital.
-- potenciar la revaloración de otras lenguas ancestrales, especiales y/o extrañas.
-- realizar la validación de un experimento de vida artificial híbrida.
+- desarrollar una corriente de revaloración del quechua en el mundo digital.
+- potenciar la revaloración de otras lenguas nativas, especiales y/o extrañas :D
+- validar una hipótesis hacker de vida híbrida.
 
-## ¿cuándo nace @hablemosquechua?
+## ¿cómo empezó @hablemosquechua?
 
-- hablemosquechua nace en @escuelab a mediados de 2011. un video capturó algunos momentos: [LINK]
+- hablemosquechua despertó en @escuelab a mediados de 2011. un video capturó algunos momentos: [LINK]
 
-## ¿qué quuechu usa actualmente la plataforma?
+## ¿qué quechua usa actualmente la plataforma?
 
-Sobre la ortografía y la cantidad de vocales usadas por hablemos quechua: Hablemosquechua se disculpa por optar y usar el quechua de la región Cusco-Collao, así mismo por difundir la escritura unificada. Sabemos que el quechua no se habla ni se escribe igual en todos lados, ya sea porque instituciones gubernamentales o linguistas que promueven una y otra manera de escribir y respetamos a las personas que nos contactan y reclaman cuando algo no está ''bien escrito''. Sabemos que es importante estudiar y reconocer las diferentes variantes a nivel Perú y latinoamerica, pero por lo pronto somos un equipo voluntario que explora las posibilidades para nuestra lengua en contextos tecnológicos. Está entre nuestros planes incrementar la funcionalidad del robot para especificar las variantes y casos particulares  que existen en la comunidad quechuahablante latinoamericana.
+> Sobre la ortografía y la cantidad de vocales usadas por hablemos quechua: Hablemosquechua se disculpa por optar y usar el quechua de la región Cusco-Collao, así mismo por difundir la escritura unificada. Sabemos que el quechua no se habla ni se escribe igual en todos lados, ya sea porque instituciones gubernamentales o linguistas que promueven una y otra manera de escribir y respetamos a las personas que nos contactan y reclaman cuando algo no está ''bien escrito''. Sabemos que es importante estudiar y reconocer las diferentes variantes a nivel Perú y latinoamerica, pero por lo pronto somos un equipo voluntario que explora las posibilidades para nuestra lengua en contextos tecnológicos. Está entre nuestros planes incrementar la funcionalidad del robot para especificar las variantes y casos particulares  que existen en la comunidad quechuahablante latinoamericana.
 Agradecemos su comprensión!!!!!
 
-Hablemosquechuap kumpankunaman:
-Imayna qillqasqamantawan hayk'a hanllallikuna hablemosquechua hap'ipasqanmantawan:
-Hablemosquechuapiqa pampachakuyta mañarikuyku quechua Cusco-collao sutichasqa akllasqaykumanta, hinallataq ch'ulla qillqalla mast'arisqaykumantapas.
-Yachaykupunim mana kikinta llapa suyukunapi qillqakusqanta, kayqa ñataq umallisqa huñukuykuna utaq simi yachay kamachiqkuna kayninta hukninta wakniraqninta hinalla mast'ariptinku, hinallataq yupaychaykupuni llapa runakuna machkariwaspanku qhawapawasqankuta mañarikuwasqankutapas sapa rimay ''waqlli qillqasqa kaqmanta''. Llapa Perú suyupi hinallataq Abyayalap uraynin, Latinoamerica nisqapipas, sapa hukniraq rimay kasqanmantaqa hinallataq yachapakunata riqsinakunatapas astawanmi yachaykumanmi, ichaqa kunanqa haywarikuq hinalla huñusqakunam kayku, hinallataq contextos tecnológicos nispapi siminchik imayna mast'arikunantam k'uskispa qhawachkayku. Wakichinaykupiqa kachkapunim robot nisqachata aswan puriyachispa sapan suyupi, imayna rimasqanta astawan kikin kaqta riqsichinapaq.
+> Hablemosquechuap kumpankunaman:
+> Imayna qillqasqamantawan hayk'a hanllallikuna hablemosquechua hap'ipasqanmantawan:
+> Hablemosquechuapiqa pampachakuyta mañarikuyku quechua Cusco-collao sutichasqa akllasqaykumanta, hinallataq ch'ulla qillqalla mast'arisqaykumantapas.
+> Yachaykupunim mana kik
+Quién adminsitra @hablemosquechua?
+
+Inicialmente @hq es administrado por sus creadores, @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que los administradores de la cuenta vayan rotando, considerándose próximamente a los usuarios quechuahablantes más activos y comprometidos con con la misión de difundir la lengua quechua. Si hablas y escribes quechua y estás interesado visibilizar tu capacidad de trabajo con lalengua quechua puedes unirte a @hablemosquehcua y puedes convertirte en co-promotor/administrador de la cuenta. Para mayor información sobre esta posibilidad puedes ponerte en contacto con sankaypillo [arroba] gmail [punto] cominta llapa suyukunapi qillqakusqanta, kayqa ñataq umallisqa huñukuykuna utaq simi yachay kamachiqkuna kayninta hukninta wakniraqninta hinalla mast'ariptinku, hinallataq yupaychaykupuni llapa runakuna machkariwaspanku qhawapawasqankuta mañarikuwasqankutapas sapa rimay ''waqlli qillqasqa kaqmanta''. Llapa Perú suyupi hinallataq Abyayalap uraynin, Latinoamerica nisqapipas, sapa hukniraq rimay kasqanmantaqa hinallataq yachapakunata riqsinakunatapas astawanmi yachaykumanmi, ichaqa kunanqa haywarikuq hinalla huñusqakunam kayku, hinallataq contextos tecnológicos nispapi siminchik imayna mast'arikunantam k'uskispa qhawachkayku. Wakichinaykupiqa kachkapunim robot nisqachata aswan puriyachispa sapan suyupi, imayna rimasqanta astawan kikin kaqta riqsichinapaq.
 
 Añayukuykichik pampachasqaykichikta!!!!!
 
 ## ¿quiénes cuidan de @hablemosquechua?
+
 [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} es un experimento iniciado por
 [@sankaypillo](https://twitter.com/sankaypillo){:target="_blank"},
 [@kikomayorga](https://twitter.com/kikomayorga){:target="_blank"}
@@ -45,3 +51,6 @@ y [@marianocrowe](https://twitter.com/marianocrowe){:target="_blank"} en 2011, e
 [@hablemosquechua](https://twitter.com/hablemosquechua) agradece a
 [The Foundation for Arts Inniciatives](http://www.ffaiarts.net){:target="_blank"}
 por el apoyo al desarrollo de la primera versión relativamente estable.
+
+
+
