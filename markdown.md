@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: rojo
 title: hablemosquechua - Acerca de
 ---
 
