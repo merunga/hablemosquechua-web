@@ -56,6 +56,6 @@ Actualmente @hq es administrado por @sankaypillo, @marianocrowe, @kikomayorga. S
 
 ## De quién es @hablemosquechua?
 
-La cuenta @hablemosquechua es mantenida por sus creadores (@sankaypillo, @marianocrowe, @kikomayorga) y se define como un experimento tecnocultural sin fines de lucro. El actual programa de administración y automatización ha sido desarrollado por @marianocrowe en Javascript (cliente y servidor). El código detrás del robot se encuentra liberado bajo licencia GNU (?) GPL (?) (o Creative Commons?) y puede ser revisado en el siguiente enlace. Quien esté interesado puede muy fàcilmente copiar y modificarlo el código detrás de @hq para sus propios fines.
+@hablemosquechua es un experimento tecnocultural sin fines de lucro. Los sucesivos programas de administración y automatización han sido desarrollados por @marianocrowe en javascript (cliente y servidor), la poesía y lengua quechua se la debemos a @sankaypillo, la idea del robot es de @kikomayorga, pero nada hubiese sucedido sin la ayuda e inspiración de Jorge Villacorta, José Carlos Mariátegui, Amos Batto, @escuelab, @runasimipi, @ata (rev), @ffai... El código detrás del robot se encuentra liberado bajo licencia GPL y puede ser revisado en el siguiente enlace [link]. Quien esté interesado puede muy fácilmente copiar y modificar el código de @hq para sus propios fines.
 
 
