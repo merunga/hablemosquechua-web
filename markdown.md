@@ -31,8 +31,10 @@ La [cuenta twitter](https://twitter.com/hablemosquechua) es mezcla de robot y se
 
 ##### ¿qué quuechu usa actualmente la plataforma?
 
+<div style="text-align:center">
 Sobre la ortografía y la cantidad de vocales usadas por hablemos quechua: Hablemosquechua se disculpa por optar y usar el quechua de la región Cusco-Collao, así mismo por difundir la escritura unificada. Sabemos que el quechua no se habla ni se escribe igual en todos lados, ya sea porque instituciones gubernamentales o linguistas que promueven una y otra manera de escribir y respetamos a las personas que nos contactan y reclaman cuando algo no está ''bien escrito''. Sabemos que es importante estudiar y reconocer las diferentes variantes a nivel Perú y latinoamerica, pero por lo pronto somos un equipo voluntario que explora las posibilidades para nuestra lengua en contextos tecnológicos. Está entre nuestros planes incrementar la funcionalidad del robot para especificar las variantes y casos particulares  que existen en la comunidad quechuahablante latinoamericana.
 Agradecemos su comprensión!!!!!
+</div>
 
 Hablemosquechuap kumpankunaman:
 Imayna qillqasqamantawan hayk'a hanllallikuna hablemosquechua hap'ipasqanmantawan:
