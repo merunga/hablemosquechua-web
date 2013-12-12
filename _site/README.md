@@ -3,7 +3,7 @@ La web de @hablemosquechua
 
 Esta web usa [gh-pages](http://pages.github.com/) para ser hosteada, es por eso que para poder
 verla de manera local, es necesario instalar [ruby](https://www.ruby-lang.org)
-y [`jekyll`](http://jekyllrb.com/)
+y [`jekyll`](http://jekyllrb.com/) 
 
 ### Dependencias
 Para instalar ruby en ubuntu
