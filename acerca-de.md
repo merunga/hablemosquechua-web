@@ -5,20 +5,20 @@ title: hablemosquechua - acercade
 ### ¿qué es [@hablemosquechua](https://twitter.com/hablemosquechua)?
 La [cuenta twitter](https://twitter.com/hablemosquechua) es manejada por un robot
 que en colaboración con humanos reconecta diccionarios, inicia diálogos, rebota ideas dosificando 
-quechua en la era de lo instantáneo.
+quechua en las redes sociales.
 
 ### ¿qué hace @hablemosquechua?
 
 - emite en forma pseudo-aleatoria frases en base a diccionarios quechua-español. 
-- funciona como diccionario interactivo por DM en twitter (mensajes directos). 
-- explora nuevas metodologías para concursos de vocabulario, gramática y más. 
-- anuncia y difunde recursos y servicios vinculados a la lengua quechua. 
+- funciona como diccionario interactivo al que le haces preguntas y responde por DM. 
+- realiza experimentos con concursos de vocabulario, gramática y más. 
+- re-difunde recursos y servicios vinculados a la lengua quechua. 
 
 ### ¿qué busca @hablemosquechua?
 
-- desarrollar una corriente de revaloración del quechua en el espacio digital.
-- potenciar el rescate de otras lenguas nativas, especiales y/o extrañas :D
-- validar una hipótesis de vida artificial.
+- desarrollar una corriente de revaloración del quechua aprovechando las redes.
+- ofrecer un kit de servicios y soluciones de código abierto para ir al rescate de otras lenguas y códigos. 
+- contrastar la hipótesis de crear vida artificial/hibrida asistidos por un robot : D
 
 ### ¿cómo empezó @hablemosquechua?
 

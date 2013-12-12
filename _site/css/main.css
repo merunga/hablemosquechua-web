@@ -27,7 +27,7 @@ footer {
 header h1 {
   margin: 0 !important;
   padding: 15px;
-  font-size: 2em;
+  font-size: 1em;
   min-height: .5em !important;
 }
 
@@ -46,7 +46,7 @@ nav#main-nav {
 }
 
 nav#main-nav * {
-  font-size: 2em;
+  font-size: 1em;
   font-weight: bolder;
 }
 
@@ -54,7 +54,7 @@ nav#main-nav * {
   padding-left: 10px;
   padding-right: 10px;
   line-height: 1.5;
-  font-size: 2em;
+  font-size: 1em;
 }
 
 #container a {
