@@ -3,20 +3,21 @@ layout: default
 title: hablemosquechua - ¿Cómo funciona?
 ---
 
-## ¿Cómo funciona?
-
-(esta página se encuentra en transformación)
-
-
-Cómo funciona?
+# ¿Cómo?
 
 ## ¡Ya somos 6500 los seguidores de @hablemosqeuchua! **
+
+## Usuarios/Entusiastas:
 * Sigue a [@hablemosquechua](https://twitter.com/hablemosquechua) en twitter
 * ¡Retuitea, responde a las preguntas, pregunta, participa!
-* ¡Clona y evoluciona hablemosquechua y promueve otras lenguas, dialectos, jergas y otros códigos!
+* Escribe DMs con el formato: Cómo se dice "palabraespañol"? para acceder al diccionario.
 * ¡Sigue a @hablemosquechua en [facebook](https://facebook.com/hablemosqeuchua) también!
 
-
+## Especialistas:
+* Si eres Quechuahablante y quieres participar activamente, ponte en contacto 
+con @sankaypillo
+* Si te interesa promover otra lengua en forma similar a @hq [BOOKMARK]
+* Si eres desarrollador ¡Clona y evoluciona hablemosquechua y promueve otros conocimientos!
 
 Hay una forma más sencilla de montar una réplica del robot?
 

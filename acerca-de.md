@@ -16,7 +16,7 @@ quechua en la era de lo instantáneo.
 
 ## ¿qué busca @hablemosquechua?
 
-- desarrollar una corriente de revaloración del quechua en el mundo digital.
+- desarrollar una corriente de revaloración del quechua en el espacio digital.
 - potenciar el rescate de otras lenguas nativas, especiales y/o extrañas :D
 - validar una hipótesis de vida artificial.
 
