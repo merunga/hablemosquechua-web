@@ -9,8 +9,8 @@ La [cuenta twitter](https://twitter.com/hablemosquechua) es la unión de un robo
 
 -emite en forma pseudo-aleatoria frases con términos de diccionarios quechua-español. 
 -funciona como un diccionario accesible bajo demanda por twitter-DM (mensajes directos). 
--explora la resonancia de concursos de vocabulario, gramática y otros. 
--anuncia y difunde recursos web, servicios educativos y profesionales vinculados a la lengua quechua. 
+-explora con concursos de vocabulario, gramática y más. 
+-anuncia y difunde recursos y servicios vinculados a la lengua quechua. 
 
 ## ¿qué busca @hablemosquechua?
 
@@ -30,7 +30,10 @@ Agradecemos su comprensión!!!!!
 > Hablemosquechuap kumpankunaman:
 > Imayna qillqasqamantawan hayk'a hanllallikuna hablemosquechua hap'ipasqanmantawan:
 > Hablemosquechuapiqa pampachakuyta mañarikuyku quechua Cusco-collao sutichasqa akllasqaykumanta, hinallataq ch'ulla qillqalla mast'arisqaykumantapas.
-> Yachaykupunim mana kikinta llapa suyukunapi qillqakusqanta, kayqa ñataq umallisqa huñukuykuna utaq simi yachay kamachiqkuna kayninta hukninta wakniraqninta hinalla mast'ariptinku, hinallataq yupaychaykupuni llapa runakuna machkariwaspanku qhawapawasqankuta mañarikuwasqankutapas sapa rimay ''waqlli qillqasqa kaqmanta''. Llapa Perú suyupi hinallataq Abyayalap uraynin, Latinoamerica nisqapipas, sapa hukniraq rimay kasqanmantaqa hinallataq yachapakunata riqsinakunatapas astawanmi yachaykumanmi, ichaqa kunanqa haywarikuq hinalla huñusqakunam kayku, hinallataq contextos tecnológicos nispapi siminchik imayna mast'arikunantam k'uskispa qhawachkayku. Wakichinaykupiqa kachkapunim robot nisqachata aswan puriyachispa sapan suyupi, imayna rimasqanta astawan kikin kaqta riqsichinapaq.
+> Yachaykupunim mana kik
+Quién adminsitra @hablemosquechua?
+
+Inicialmente @hq es administrado por sus creadores, @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que los administradores de la cuenta vayan rotando, considerándose próximamente a los usuarios quechuahablantes más activos y comprometidos con con la misión de difundir la lengua quechua. Si hablas y escribes quechua y estás interesado visibilizar tu capacidad de trabajo con lalengua quechua puedes unirte a @hablemosquehcua y puedes convertirte en co-promotor/administrador de la cuenta. Para mayor información sobre esta posibilidad puedes ponerte en contacto con sankaypillo [arroba] gmail [punto] cominta llapa suyukunapi qillqakusqanta, kayqa ñataq umallisqa huñukuykuna utaq simi yachay kamachiqkuna kayninta hukninta wakniraqninta hinalla mast'ariptinku, hinallataq yupaychaykupuni llapa runakuna machkariwaspanku qhawapawasqankuta mañarikuwasqankutapas sapa rimay ''waqlli qillqasqa kaqmanta''. Llapa Perú suyupi hinallataq Abyayalap uraynin, Latinoamerica nisqapipas, sapa hukniraq rimay kasqanmantaqa hinallataq yachapakunata riqsinakunatapas astawanmi yachaykumanmi, ichaqa kunanqa haywarikuq hinalla huñusqakunam kayku, hinallataq contextos tecnológicos nispapi siminchik imayna mast'arikunantam k'uskispa qhawachkayku. Wakichinaykupiqa kachkapunim robot nisqachata aswan puriyachispa sapan suyupi, imayna rimasqanta astawan kikin kaqta riqsichinapaq.
 
 Añayukuykichik pampachasqaykichikta!!!!!
 

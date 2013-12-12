@@ -55,13 +55,7 @@ El actual programa de administración y automatización ha sido desarrollado por
 
            
 
-diccionarios
-frases – secuelas / ràfagas
-preguntas – respuestas y felicitaciones
-horarios – random / secuencial
-programar – calendario – eliminar / reemplazar (a mano y random) / reordenar
-traducciones  - RegEx
-configuracion
+
 
 Ejemplos:
 la capital de...
