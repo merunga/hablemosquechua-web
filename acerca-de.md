@@ -22,6 +22,18 @@ La [cuenta twitter](https://twitter.com/hablemosquechua) es mezcla de robot y se
 
 - hablemosquechua nace en @escuelab a mediados de 2011. un video capturó algunos momentos: [LINK]
 
+## ¿qué quuechu usa actualmente la plataforma?
+
+Sobre la ortografía y la cantidad de vocales usadas por hablemos quechua: Hablemosquechua se disculpa por optar y usar el quechua de la región Cusco-Collao, así mismo por difundir la escritura unificada. Sabemos que el quechua no se habla ni se escribe igual en todos lados, ya sea porque instituciones gubernamentales o linguistas que promueven una y otra manera de escribir y respetamos a las personas que nos contactan y reclaman cuando algo no está ''bien escrito''. Sabemos que es importante estudiar y reconocer las diferentes variantes a nivel Perú y latinoamerica, pero por lo pronto somos un equipo voluntario que explora las posibilidades para nuestra lengua en contextos tecnológicos. Está entre nuestros planes incrementar la funcionalidad del robot para especificar las variantes y casos particulares  que existen en la comunidad quechuahablante latinoamericana.
+Agradecemos su comprensión!!!!!
+
+Hablemosquechuap kumpankunaman:
+Imayna qillqasqamantawan hayk'a hanllallikuna hablemosquechua hap'ipasqanmantawan:
+Hablemosquechuapiqa pampachakuyta mañarikuyku quechua Cusco-collao sutichasqa akllasqaykumanta, hinallataq ch'ulla qillqalla mast'arisqaykumantapas.
+Yachaykupunim mana kikinta llapa suyukunapi qillqakusqanta, kayqa ñataq umallisqa huñukuykuna utaq simi yachay kamachiqkuna kayninta hukninta wakniraqninta hinalla mast'ariptinku, hinallataq yupaychaykupuni llapa runakuna machkariwaspanku qhawapawasqankuta mañarikuwasqankutapas sapa rimay ''waqlli qillqasqa kaqmanta''. Llapa Perú suyupi hinallataq Abyayalap uraynin, Latinoamerica nisqapipas, sapa hukniraq rimay kasqanmantaqa hinallataq yachapakunata riqsinakunatapas astawanmi yachaykumanmi, ichaqa kunanqa haywarikuq hinalla huñusqakunam kayku, hinallataq contextos tecnológicos nispapi siminchik imayna mast'arikunantam k'uskispa qhawachkayku. Wakichinaykupiqa kachkapunim robot nisqachata aswan puriyachispa sapan suyupi, imayna rimasqanta astawan kikin kaqta riqsichinapaq.
+
+Añayukuykichik pampachasqaykichikta!!!!!
+
 ## ¿quiénes cuidan de @hablemosquechua?
 [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} es un experimento iniciado por
 [@sankaypillo](https://twitter.com/sankaypillo){:target="_blank"},

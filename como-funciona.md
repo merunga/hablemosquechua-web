@@ -5,6 +5,8 @@ title: hablemosquechua - ¿Cómo funciona?
 
 ## ¿Cómo funciona?
 
+(esta página se encuentra en transformación)
+
 
 Cómo funciona?
 
