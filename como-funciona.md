@@ -56,7 +56,6 @@ traducciones  - RegEx
 configuracion
 
 Ejemplos:
-- hablatroncher
 la capital de...
 donde queda
 los colores de las banderas.
