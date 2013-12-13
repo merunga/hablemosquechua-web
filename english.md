@@ -4,22 +4,20 @@ title: hablemosquechua - Ejemplos
 ---
 
 #What?
-[#Quechua](http://es.wikipedia.org/wiki/Quechua){:target="_blank"} is a living language spoken by more than ten million people.
+
+[#Quechua](http://es.wikipedia.org/wiki/Quechua){:target="_blank"} is a living language. As of 2013, it is spoken by more than ten million people.
 
 [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} seeks to refresh our memory and connect us to the quechua language.
 
-The [twitter accouent](https://twitter.com/hablemosquechua) is controlled by a robot -which in collaboration with human beings- links quechua glossaries, connects dictionaries, ounces ideas and inserts some quechua to the ocean of instant communications.
+The [twitter account](https://twitter.com/hablemosquechua) is controlled by a robot -which in collaboration with human beings- links quechua glossaries, connects dictionaries, bounces ideas and inserts some quechua to the mess of instant communications.
 
-The experiment can be replicated easily. We encourage interested ones to read through the [documentación](http://hablemosquechua.org/ejemplos.html)
+The experiment can be replicated easily. We encourage interested ones to read through the [documentation](http://hablemosquechua.org/ejemplos.html)
 
 re-connecting...
 
-#About
-______
+------
 
-------
 #About
-------
 
 ## ¿what is [@hablemosquechua](https://twitter.com/hablemosquechua)?
 
@@ -36,8 +34,10 @@ The [twitter account](https://twitter.com/hablemosquechua) is controlled by a ro
 - tracks the most active uses and greet them : )
 - re-communicates other resources and services vinculated to the quechua language.
 
-## ¿How does it work?
 ---------------------
+
+## ¿How does it work?
+
 
 ### Users/Enthusiasts:
 * ¡Follow [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} on Twitter!
@@ -53,8 +53,10 @@ The [twitter account](https://twitter.com/hablemosquechua) is controlled by a ro
 ### Developers:
 * If you are a developer, you can clone, fork, evolve and merge @hablemosquechua! The code is [here](https://github.com/merunga/hablemosquechua/){:target="_blank"} If you have an idea of how to make a better kind of an animal out of this robot we please ask you to get in touch with [@marianocrowe](http://twitter.com/marianocrowe){:target="_blank"}
 
-#Do it YOURSELF!!!
 ------------------
+
+#Do it YOURSELF!!!
+
 
 (note: this documentation does vary and is usualy better updated in spanish)
 
@@ -89,6 +91,19 @@ You can very easily replicate the operation of @hablemosquechua, but using the p
 ### 2) Replicate the complete hablemosquehcua robot ¡on your own server! 
 * The source-code is [here](https://github.com/merunga/hablemosquechua/){:target="_blank"}
 
+------------------
+
+#Meta
+
+## ¿which quechua does the platform currently use?
+
+* (needs update - in the meantime @hq is explring with the inclusion of comparissons between different quechua dialects as well)
+
+(written in quechua by @sankaypillo early in early 2012, translated into english)
+> About spelling and vocals (5) used by @hq: @hq opts and asks for understanding on using mainly quechua language form the Cusco-Collao region, and so also for disseminating the unified writing. We know that quechua isn`t spoken nor written the same everywhere, be because government entities or liguists promote one or another way of writing. We respect the persons who contact us and protest when something is not "well written". We know it is important tu study and recognize the different variants across Perú and Latin América, but for now, we are a team of volunteers that explores the possibilities for our ancient language inside technological contexts. It is in our plans to increment the functionality of the robot to specify variants and special cases that exist across the quechua speaking community in Latin America. 
+
+>¡We thank for your understanding!
+
 ## ¿what does @hablemosquechua aim to?
 
 - to develop a trend for revalorating quechua language through taking advantage from social networks.
@@ -100,17 +115,7 @@ You can very easily replicate the operation of @hablemosquechua, but using the p
 
 ## ¿can i participate in the @hq team?
 
-Currently @hq is maintained by @sankaypillo, @marianocrowe and @kikomayorga. Nevertheless, the idea is that we can rotate the group of administrators, incorporating other quechua speaking enthusiasts to collaborate with the innitiative. If you speak or write in quechua and you are interested in actively taking part and become a deejay/community manager for @hq for some season, you can become quechua poet and co-promoter at @hq! To discuss this possibility contact [@sankaypillo](http://twitter.com/sankaypillo) and let us try out with your new DJ/CM talent in the beginning of 2014.
-
-
-## ¿which quechua does the platform currently use?
-
-* (needs update - in the meantime @hq is explring with the inclusion of comparissons between different quechua dialects as well)
-
-(written in quechua by @sankaypillo early in early 2012, translated into english)
-> About spelling and vocals (5) used by @hq: @hq opts and asks for understanding on using mainly quechua language form the Cusco-Collao region, and so also for disseminating the unified writing. We know that quechua isn`t spoken nor written the same everywhere, be because government entities or liguists promote one or another way of writing. We respect the persons who contact us and protest when something is not "well written". We know it is important tu study and recognize the different variants across Perú and Latin América, but for now, we are a team of volunteers that explores the possibilities for our ancient language inside technological contexts. It is in our plans to increment the functionality of the robot to specify variants and special cases that exist across the quechua speaking community in Latin America. 
-
->¡We thank for your understanding!
+Currently @hq is maintained by @sankaypillo, @marianocrowe and @kikomayorga. Nevertheless, the idea is that we can rotate the group of administrators, incorporating other quechua speaking enthusiasts to collaborate with the innitiative. If you speak or write in quechua and you are interested in actively taking part and become a deejay/community manager for @hq for some season, you can become a co-promoter at @hq! To discuss this possibility contact [@sankaypillo](http://twitter.com/sankaypillo) and let us try out with your new DJ/CM talent in the beginning of 2014.
 
 ## ¿who takes care of @hablemosquechua?
 
