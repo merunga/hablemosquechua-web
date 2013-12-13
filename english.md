@@ -7,33 +7,20 @@ title: hablemosquechua - Ejemplos
 
 ## ¿what is [@hablemosquechua](https://twitter.com/hablemosquechua)?
 
-The [twitter account](https://twitter.com/hablemosquechua) es controlled by a robot, which
+The [twitter account](https://twitter.com/hablemosquechua) is controlled by a robot, which
 -in collaboration with humans- reconnects dictionaries, drops ideas, starts dialogues, inserting quechua language into the social networks.
 
 @hablemosquechua was born as an experiment/prototype at [@escuelab](http://twitter.com/escuelab){:target="_blank"} around middle 2011. a [video](http://www.youtube.com/watch?v=l4NFPkpkIzQ){:target="_blank"} tells the story.
 
-> In 2011, in less than 6 hours, the first functional version was deployed.
-> During its first 5 hours, the robot had surpassed the 100 first folowers triggered by a single twitt from [@escuelab](http://twitter.com/escuelab){:target="_blank"}...
-
 ## ¿what does @hablemosquechua do?
 
-- composes and emits spontaneously through twitter, frases that take words from quechua-spanish dictionaries.
-- works as an interactive dictionary to which you ask and replies over DM.
-- experiments in animating the users through vocabulary, grammar and other contests. 
-- tracks the most active uses and congratulates them : )
-- re-communicates other resources and services vincultade to quechua language.
+- composes and emits spontaneously through twitter, phrases that take words from quechua-spanish dictionaries.
+- works as an interactive dictionary you mention while asking and replies to you over DM.
+- tries to animate the followers through vocabulary and grammar contests. 
+- tracks the most active uses and greet them : )
+- re-communicates other resources and services vinculated to the quechua language.
 
-## ¿what does @hablemosquechua aim to?
-
-- to develop an trend to revalorating quechua language taking advantage from social networks.
-- explore artificial life / robot-community interaction as a startegy to maintain a language alive. 
-- offer a kit of opensource services and solutiones to go and rescue other languages and dialects. 
-
-¡We thank for your understanding!
-
-# ¿How does it work?
-
-#How to use @hq?
+## ¿How does it work?
 
 ### Users/Enthusiasts:
 * ¡Follow [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} on Twitter!
@@ -46,8 +33,8 @@ The [twitter account](https://twitter.com/hablemosquechua) es controlled by a ro
 * I you are a quechua speaker and want to actively participate, get in touch with [@sankaypillo](https://twitter.com/sankaypillo){:target="_blank"}
 * If you are interested in promoting another language in a similar way to @hq, you can ask our robot to take control over of your twiter profile (and add your oun content, dictionaries as we explain it [here](http://hablemosquechua.org)). If you need basic technical help you can contact [@kikomayorga](https://twitter.com/kikomayorga){:target="_blank"}
 
-### Desarrolladores:
-* If you are a developer, you can clone, evolve and merge @hablemosquechua! The code is [here](https://github.com/merunga/hablemosquechua/){:target="_blank"} If you have an idea to make a better kind of an animal using this robot you might want to get in touch with [@marianocrowe](http://twitter.com/marianocrowe){:target="_blank"}
+### Developers:
+* If you are a developer, you can clone, fork, evolve and merge @hablemosquechua! The code is [here](https://github.com/merunga/hablemosquechua/){:target="_blank"} If you have an idea of how to make a better kind of an animal out of this robot we please ask you to get in touch with [@marianocrowe](http://twitter.com/marianocrowe){:target="_blank"}
 
 #Do it YOURSELF!!!
 
@@ -57,7 +44,7 @@ The [twitter account](https://twitter.com/hablemosquechua) es controlled by a ro
 
 Software behind the robot has been thought to be generic and easily reused/replicated. We have thought of different educational platforms based on this system:
 
-An -almost- inmediate instance of @hablemosquechua, could be @hablemosnahuat (an account disseminating the "nahuat" language from Central América. The robot could also be connected to other twitter profiles dedicated to specific communities, as examples: @speakitgeek, @technicalspanish and other educational/useful stuff...  
+An -almost- inmediate instance of @hablemosquechua, could be @hablemosnahuat (an account disseminating the "nahuat" language from Central América. Other uses for the robot might be to control other twitter profiles dedicated to specific communities, such as: @speakitgeek, @technicalspanish and other educational/useful stuff...
 
 
 ## ¿Other examples?
@@ -84,6 +71,14 @@ You can very easily replicate the operation of @hablemosquechua, but using the p
 ### 2) Replicate the complete hablemosquehcua robot ¡on your own server! 
 * The source-code is [here](https://github.com/merunga/hablemosquechua/){:target="_blank"}
 
+## ¿what does @hablemosquechua aim to?
+
+- to develop a trend for revalorating quechua language through taking advantage from social networks.
+- explore artificial life / robot-community interaction as a startegy to maintain a language alive. 
+- offer a kit of opensource services and solutiones to go and rescue other languages and dialects. 
+
+> In 2011, in less than 6 hours, the first functional version was deployed.
+> During its first 5 hours, the robot had surpassed the 100 first folowers triggered by a single twitt.
 
 ## ¿can i participate in the @hq team?
 
@@ -96,6 +91,8 @@ Currently @hq is maintained by @sankaypillo, @marianocrowe and @kikomayorga. Nev
 
 (written in quechua by @sankaypillo early in early 2012, translated into english)
 > About spelling and vocals (5) used by @hq: @hq opts and asks for understanding on using mainly quechua language form the Cusco-Collao region, and so also for disseminating the unified writing. We know that quechua isn`t spoken nor written the same everywhere, be because government entities or liguists promote one or another way of writing. We respect the persons who contact us and protest when something is not "well written". We know it is important tu study and recognize the different variants across Perú and Latin América, but for now, we are a team of volunteers that explores the possibilities for our ancient language inside technological contexts. It is in our plans to increment the functionality of the robot to specify variants and special cases that exist across the quechua speaking community in Latin America. 
+
+>¡We thank for your understanding!
 
 ## ¿who takes care of @hablemosquechua?
 
@@ -113,5 +110,5 @@ for the support to the first relatively stable version close to the end of 2013.
 - The education of the robot in poetry and quechua language gets done by [@sankaypillo](http://twitter.com/sankaypillo){:target="_blank"}, 
 - The robot idea came from [@kikomayorga](http://twitter.com/kikomayorga){:target="_blank"} and the [stereoreality environments](http://www.youtube.com/watch?v=R6_0QouYptE){:target="_blank"}. 
 - But nothing of this would have been possible without the vision and support from Jorge Villacorta, [José Carlos Mariátegui](http://twitter.com/tupacamauta){:target="_blank"}, [@escuelab](http://twitter.com/escuelab){:target="_blank"}, [ATA](http://ata.org.pe/){:target="_blank"}, [@ffai](http://www.ffaiarts.net/){:target="_blank"}
-- La inspiración, en definitiva se la debemos a Amos Batto y a [@runasimipi](http://twitter.com/runasimipi){:target="_blank"}.
+- The inspiration deffinitely came from the work of Amos Batto and the work from [@runasimipi](http://twitter.com/runasimipi){:target="_blank"}.
 
