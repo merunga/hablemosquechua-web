@@ -26,7 +26,6 @@ quechua en las redes sociales.
 - explorar la vida artificial / interacción robot-comunidad como estrategia para mantener viva una lengua.
 - ofrecer un kit de servicios y soluciones de código abierto para ir al rescate de otras lenguas y dialectos. 
 
-
 ## ¿puedo participar en @hablemosquechua?
 
 Actualmente @hq es mantenido por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que podamos rotar, incorporando otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente y volverte DJ de @hq por alguna temporada, puedes convertirte en poteta quechua y co-promotor en @hq. Para discutir esta posibilidad contacta a [@sankaypillo](http://twitter.com/sankaypillo) y veremos de probar estas rotaciones en los primeros meses de 2014. 
