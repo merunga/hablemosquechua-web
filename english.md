@@ -3,6 +3,21 @@ layout: default
 title: hablemosquechua - Ejemplos
 ---
 
+#What?
+[#Quechua](http://es.wikipedia.org/wiki/Quechua){:target="_blank"} is a living language spoken by more than ten million people.
+
+[@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} seeks to refresh our memory and connect us to the quechua language.
+
+The [twitter accouent](https://twitter.com/hablemosquechua) is controlled by a robot -which in collaboration with human beings- links quechua glossaries, connects dictionaries, ounces ideas and inserts some quechua to the ocean of instant communications.
+
+The experiment can be replicated easily. We encourage interested ones to read through the [documentación](http://hablemosquechua.org/ejemplos.html)
+
+re-connecting...
+
+#About
+______
+
+------
 #About
 ------
 
