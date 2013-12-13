@@ -17,7 +17,7 @@ quechua en las redes sociales.
 
 - compone y emite espontáneamente por twitter, frases que toman palabras de diccionarios quechua-español. 
 - funciona como diccionario interactivo al que le haces preguntas y responde por DM. 
-- experimenta en la animación de sus usuarios a través de concursos de vocabulario, gramática y más. 
+- dinamiza a su comunidad de usuarios mediante concursos de vocabulario, gramática y más. 
 - re-difunde recursos y servicios vinculados a la lengua quechua. 
 
 ## ¿qué busca @hablemosquechua?
