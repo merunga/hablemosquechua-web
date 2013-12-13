@@ -4,11 +4,12 @@ title: hablemosquechua - Ejemplos
 ---
 
 #About
+------
 
 ## ¿what is [@hablemosquechua](https://twitter.com/hablemosquechua)?
 
 The [twitter account](https://twitter.com/hablemosquechua) is controlled by a robot, which
--in collaboration with humans- reconnects dictionaries, drops ideas, starts dialogues, inserting quechua language into the social networks.
+-in collaboration with humans- collects and re-connects quechua glossaries, drops ideas, starts dialogues, inserting quechua language into the social networks.
 
 @hablemosquechua was born as an experiment/prototype at [@escuelab](http://twitter.com/escuelab){:target="_blank"} around middle 2011. a [video](http://www.youtube.com/watch?v=l4NFPkpkIzQ){:target="_blank"} tells the story.
 

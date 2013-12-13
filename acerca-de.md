@@ -5,7 +5,7 @@ title: hablemosquechua - acercade
 ## ¿qué es [@hablemosquechua](https://twitter.com/hablemosquechua)?
 
 La [cuenta twitter](https://twitter.com/hablemosquechua) es manejada por un robot,
-que -en colaboración con humanos- reconecta diccionarios, suelta ideas, inicia diálogos, insertando el 
+que -en colaboración con humanos- reconecta glosarios, suelta ideas, inicia diálogos, insertando el 
 quechua en las redes sociales. 
 
 @hablemosquechua nació como experimento/prototipo en [@escuelab](http://twitter.com/escuelab){:target="_blank"} a mediados de 2011. un [video](http://www.youtube.com/watch?v=l4NFPkpkIzQ){:target="_blank"} cuenta la historia . 
@@ -28,7 +28,7 @@ quechua en las redes sociales.
 
 ## ¿puedo participar en @hablemosquechua?
 
-Actualmente @hq es mantenido por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que podamos rotar, incorporando otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente y volverte DJ de @hq por alguna temporada, puedes convertirte en poteta quechua y co-promotor en @hq. Para discutir esta posibilidad contacta a [@sankaypillo](http://twitter.com/sankaypillo) y veremos de probar estas rotaciones en los primeros meses de 2014. 
+Actualmente @hq es mantenido por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que podamos rotar, incorporando otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente y volverte DJ de @hq por alguna temporada, puedes convertirte en poeta quechua y co-promotor en @hq. Para discutir esta posibilidad contacta a [@sankaypillo](http://twitter.com/sankaypillo). Probaremos estas rotaciones en 2014. 
 
 ## ¿qué quechua usa actualmente la plataforma?
 
