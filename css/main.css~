@@ -21,13 +21,13 @@ header {
 
 footer {
   margin: 0 !important;
-  padding: 15px;
+  padding: 30px;
 }
 
 header h1 {
   margin: 0 !important;
-  padding: 15px;
-  font-size: 2em;
+  padding: 35px;
+  font-size: 3.5em;
   min-height: .5em !important;
 }
 
@@ -46,15 +46,15 @@ nav#main-nav {
 }
 
 nav#main-nav * {
-  font-size: 2em;
+  font-size: 1.2em;
   font-weight: bolder;
 }
 
 #container {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 35px;
+  padding-right: 35px;
   line-height: 1.5;
-  font-size: 2em;
+  font-size: 1.3em;
 }
 
 #container a {

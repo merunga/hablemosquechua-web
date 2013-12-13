@@ -33,8 +33,3 @@ Puedes muy fácilmente replicar el funcionamiento de @hablemosquechua y con los 
 
 # 2) Replica el robot de hablemosquehcua ¡en tu propio servidor! 
 * El código está [aquí](https://github.com/merunga/hablemosquechua-web/){:target="_blank"}
-
-
-### Hay una forma sencilla de montar una réplica del robot?
-
-

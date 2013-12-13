@@ -2,33 +2,31 @@
 layout: default
 title: hablemosquechua - acercade
 ---
-### ¿qué es [@hablemosquechua](https://twitter.com/hablemosquechua)?
-La [cuenta twitter](https://twitter.com/hablemosquechua) es manejada por un robot
-que en colaboración con humanos reconecta diccionarios, inicia diálogos, rebota ideas dosificando 
-quechua en las redes sociales. @hablemosquechua nació como experimento/prototipo en @escuelab a mediados de 2011. un video cuenta la historia [LINK]. 
+## ¿qué es [@hablemosquechua](https://twitter.com/hablemosquechua)?
 
+La [cuenta twitter](https://twitter.com/hablemosquechua) es manejada por un robot,
+que -en colaboración con humanos- reconecta diccionarios, suelta ideas, inicia diálogos, dosificando el 
+quechua en las redes sociales. 
 
+@hablemosquechua nació como experimento/prototipo en [@escuelab](http://twitter.com/escuelab){:target="_blank"} a mediados de 2011. un [video](http://www.youtube.com/watch?v=l4NFPkpkIzQ){:target="_blank"} cuenta la historia . 
 
->     A mediados de 2011, en menos de 6 horas se montó una primera versión funcional.
+> A mediados de 2011, en menos de 6 horas, se montó una primera versión funcional. 
+> En las primeras 5 horas de vida, el robot había superado los 100 seguidores...
 
->             En las primeras horas el robot había superado los 100 seguidores...
+## ¿qué hace @hablemosquechua?
 
-
-
-### ¿qué hace @hablemosquechua?
-
-- emite espontáneamente por twitter, frases completadas por palabras de diccionarios quechua-español. 
+- compone y emite espontáneamente por twitter, frases que toman palabras de diccionarios quechua-español. 
 - funciona como diccionario interactivo al que le haces preguntas y responde por DM. 
-- realiza experimentos con concursos de vocabulario, gramática y más. 
+- experimenta en la animación de sus usuarios a través de concursos de vocabulario, gramática y más. 
 - re-difunde recursos y servicios vinculados a la lengua quechua. 
 
-### ¿qué busca @hablemosquechua?
+## ¿qué busca @hablemosquechua?
 
 - desarrollar una corriente de revaloración del quechua aprovechando las redes sociales.
 - explorar la vida artificial / interacción robot-comunidad como estrategia para mantener viva una lengua.
 - ofrecer un kit de servicios y soluciones de código abierto para ir al rescate de otras lenguas y dialectos. 
 
-### ¿quiénes cuidan de @hablemosquechua?
+## ¿quiénes cuidan de @hablemosquechua?
 
 [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} es un experimento iniciado por
 [@sankaypillo](https://twitter.com/sankaypillo){:target="_blank"},
@@ -46,12 +44,12 @@ por el apoyo al desarrollo de la primera versión relativamente estable a finale
 - Pero nada hubiese sucedido sin la ayuda de Jorge Villacorta, [José Carlos Mariátegui](http://twitter.com/tupacamauta){:target="_blank"}, [@escuelab](http://twitter.com/escuelab){:target="_blank"}, @ata (rev), @ffai
 - La inspiración, en definitiva se la debemos a Amos Batto y a [@runasimipi](http://twitter.com/runasimipi){:target="_blank"}. 
 
-### ¿puedo participar en @hablemosquechua?
+## ¿puedo participar en @hablemosquechua?
 
 Actualmente @hq es mantenido por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que podamos rotar, incorporando otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente y volverte DJ de @hq por alguna temporada, puedes convertirte en poteta quechua y co-promotor en @hq. Para discutir esta posibilidad contacta a [@sankaypillo](http://twitter.com/sankaypillo) y veremos de probar estas rotaciones en los primeros meses de 2014. 
 
 
-### ¿qué quechua usa actualmente la plataforma?
+## ¿qué quechua usa actualmente la plataforma?
 
 > Sobre la ortografía y la cantidad de vocales usadas por hablemos quechua: Hablemosquechua se disculpa por optar y usar el quechua de la región Cusco-Collao, así mismo por difundir la escritura unificada. Sabemos que el quechua no se habla ni se escribe igual en todos lados, ya sea porque instituciones gubernamentales o linguistas que promueven una y otra manera de escribir y respetamos a las personas que nos contactan y reclaman cuando algo no está ''bien escrito''. Sabemos que es importante estudiar y reconocer las diferentes variantes a nivel Perú y latinoamerica, pero por lo pronto somos un equipo voluntario que explora las posibilidades para nuestra lengua en contextos tecnológicos. Está entre nuestros planes incrementar la funcionalidad del robot para especificar las variantes y casos particulares  que existen en la comunidad quechuahablante latinoamericana.
 > Agradecemos su comprensión!!!!!
