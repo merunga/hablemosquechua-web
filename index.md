@@ -8,7 +8,7 @@ es un idioma vivo, hablado por más de diez millones de personas
 
 [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} busca refrescar nuestra memoria y conectarnos con el quechua. 
 
-La [cuenta twitter](https://twitter.com/hablemosquechua) es manejada por un robot
+La [cuenta twitter](https://twitter.com/hablemosquechua){:target="_blank"} es manejada por un robot
 -que en colaboración con humanos- enlaza glosarios, conecta diccionarios, rebota ideas e inserta
 algo de quechua al caos de las comunicaciones instantáneas.
 
@@ -31,3 +31,5 @@ re-conectando...
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 </div>
+
+# visita a [@hablemosquechua en twitter](http://twitter.com/hablemosquechua){:target="_blank"}
