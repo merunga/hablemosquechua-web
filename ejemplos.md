@@ -6,7 +6,7 @@ title: hablemosquechua - Ejemplos
 ## ¡El software de @hq es adaptable al idioma/contexto que quieras!
 
 El software detrás del robot ha sido pensado para ser genérico y fácilmente 
-replicable. Hemos imaginado distintas plataformas educativas basadas en el sistema: 
+replicable/reutilizable. Hemos imaginado distintas plataformas educativas basadas en el sistema: 
 
 Una réplica -casi- inmediata de @hablemosquechua, podríaser @hablemosnahuat (una cuenta que difunda lengua nahuat de centroamérica?). También se podría conectar el robot con cuentas dedicadas al argot de comunidades específicas, como por ejemplo: “@hablemossurfer”, “@hablemosbarrio“, etc...
 
