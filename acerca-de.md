@@ -7,25 +7,31 @@ La [cuenta twitter](https://twitter.com/hablemosquechua) es manejada por un robo
 que en colaboración con humanos reconecta diccionarios, inicia diálogos, rebota ideas dosificando 
 quechua en las redes sociales.
 
+
 ### ¿qué hace @hablemosquechua?
 
-- emite en forma pseudo-aleatoria frases en base a diccionarios quechua-español. 
+- emite espontáneamente frases que toman palabras de diccionarios quechua-español. 
 - funciona como diccionario interactivo al que le haces preguntas y responde por DM. 
 - realiza experimentos con concursos de vocabulario, gramática y más. 
 - re-difunde recursos y servicios vinculados a la lengua quechua. 
 
 ### ¿qué busca @hablemosquechua?
 
-- desarrollar una corriente de revaloración del quechua aprovechando las redes.
-- ofrecer un kit de servicios y soluciones de código abierto para ir al rescate de otras lenguas y códigos. 
-- contrastar la hipótesis de crear vida artificial/hibrida asistidos por un robot : D
-
-### ¿cómo empezó @hablemosquechua?
-
-- hablemosquechua nació como idea en @escuelab a mediados de 2011. un video cuenta la historia [LINK]
-
+- desarrollar una corriente de revaloración del quechua aprovechando las redes sociales.
+- explorar la vida artificial / interacción robot-comunidad como estrategia para mantener viva una lengua.
+- ofrecer un kit de servicios y soluciones de código abierto para ir al rescate de otras lenguas y dialectos. 
 
 ### ¿quiénes cuidan de @hablemosquechua?
+
+@hablemosquechua nació como experimento/prototipo en @escuelab a mediados de 2011. un video cuenta la historia [LINK]
+En menos de 6 horas se montó una primera versión funcional. En las primeras horas el robot había alcanzado 100 seguidores.
+
+Vemos a @hablemosquechua como un experimento tecno-socio-cultural.
+- Los sucesivos programas de automatización y administración han sido desarrollados por [@marianocrowe](http://twitter.com/marianocrowe) inicialmente como maqueta en php, posteriormente en javascript (cliente y servidor) El código es liberado bajo licencia GPL.
+- La educación al robot en poesía y lengua quechua se la agradecemos a [@sankaypillo](http://twitter.com/sankaypillo), 
+- La idea de un robot venía de [@kikomayorga](http://twitter.com/kikomayorga) y los [ambientes de estereorealidad](http://www.youtube.com/watch?v=R6_0QouYptE). 
+- Pero nada hubiese sucedido sin la ayuda de Jorge Villacorta, José Carlos Mariátegui, @escuelab, @ata (rev), @ffai
+- La inspiración, en definitiva se la debemos a Amos Batto y [@runasimipi](http://twitter.com/runasimipi). 
 
 [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} es un experimento iniciado por
 [@sankaypillo](https://twitter.com/sankaypillo){:target="_blank"},
@@ -39,7 +45,7 @@ por el apoyo al desarrollo de la primera versión relativamente estable a finale
 
 ### ¿quién adminsitra @hablemosquechua?
 
-Actualmente @hq es administrado por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que los administradores puedan rotar, incluyéndose a otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente, puedes convertirte en co-promotor/administrador de la cuenta. Para discutir esta posibilidad contacta a [@sankaypillo](http://twitter.com/sankaypillo). 
+Actualmente @hq es administrado por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que los administradores puedan rotar, incluyéndose a otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente, puedes convertirte en co-promotor de @hq. Para discutir esta posibilidad contacta a [@sankaypillo](http://twitter.com/sankaypillo). 
 
 
 ### ¿qué quechua usa actualmente la plataforma?
@@ -56,7 +62,7 @@ Actualmente @hq es administrado por @sankaypillo, @marianocrowe, @kikomayorga. S
 
 ### ¿quién es @hablemosquechua?
 
-@hablemosquechua es un experimento tecnocultural sin fines de lucro. El código es liberado bajo licencia GPL. Los sucesivos programas de automatización y administración han sido desarrollados por [@marianocrowe](http://twitter.com/marianocrowe) inicialmente como maqueta en php, posteriormente en javascript (cliente y servidor), la educación al robot en poesía y lengua quechua se la agradecemos a [@sankaypillo](http://twitter.com/sankaypillo), la idea de un robot venía de [@kikomayorga](http://twitter.com/kikomayorga). Pero nada hubiese sucedido sin la ayuda de Jorge Villacorta, José Carlos Mariátegui, @escuelab, @ata (rev), @ffai, y la inspiración de Amos Batto y @runasimipi. 
+
 
 El código detrás del robot se encuentra liberado bajo licencia GPL y puede ser revisado en el siguiente enlace [link]. Quien esté interesado puede muy fácilmente copiar y modificar el código de @hq para sus propios fines.
 
