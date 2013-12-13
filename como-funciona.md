@@ -19,5 +19,5 @@ con [@sankaypillo](https://twitter.com/sankaypillo){:target="_blank"}
 que tome control de tu propio perfil de twitter (como explicamos [aquí](http://hablemosquechua.org)). Y si necesitas ayuda básica puedes contactar a [@kikomayorga](https://twitter.com/kikomayorga){:target="_blank"}
 
 ### Desarrolladores:
-* Si eres desarrollador ¡Clona y evoluciona a @hablemosquechua! El código está [aquí](https://github.com/merunga/hablemosquechua-web/){:target="_blank"} Si tienes una idea para mejorar al bicho contacta a [@marianocrowe](http://twitter.com/marianocrowe)
+* Si eres desarrollador ¡Clona y evoluciona a @hablemosquechua! El código está [aquí](https://github.com/merunga/hablemosquechua/){:target="_blank"} Si tienes una idea para mejorar al bicho contacta a [@marianocrowe](http://twitter.com/marianocrowe)
 
