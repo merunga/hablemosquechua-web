@@ -29,7 +29,7 @@ The [twitter account](https://twitter.com/hablemosquechua) is controlled by a ro
 * Retwitt, reply to the questions, ask, participate!
 * Do mention @hq with the format: "Cómo se dice "palabraespañol"?" and wait for the reply by DM (you must follow @hq to receive DMs).
 * Be aware of different contests and challenges : D
-* ¡Visit @hablemosquechua on [facebook](https://facebook.com/hablemosqeuchua){:target="_blank"} and hel us spread quechua!
+* ¡Visit @hablemosquechua on [facebook](https://www.facebook.com/pages/Hablemos-Quechua/115844255170141?fref=ts){:target="_blank"} and hel us spread quechua!
 
 ### Specialists:
 * I you are a quechua speaker and want to actively participate, get in touch with [@sankaypillo](https://twitter.com/sankaypillo){:target="_blank"}
@@ -103,7 +103,7 @@ Currently @hq is maintained by @sankaypillo, @marianocrowe and @kikomayorga. Nev
 [@sankaypillo](https://twitter.com/sankaypillo){:target="_blank"},
 [@kikomayorga](https://twitter.com/kikomayorga){:target="_blank"}
 and [@marianocrowe](https://twitter.com/marianocrowe){:target="_blank"} en 2011, at
-[@escuelab](https://twitter.com/escuelab){:target="_blank"} under the inspiration of
+[@escuelab](https://twitter.com/escuehttps://www.facebook.com/pages/Hablemos-Quechua/115844255170141?fref=tslab){:target="_blank"} under the inspiration of
 [@runasimipi](https://twitter.com/runasimipi){:target="_blank"} and Amos Batto. 
 [@hablemosquechua](https://twitter.com/hablemosquechua) thanks specially to the support from 
 [The Foundation for Arts Inniciatives](http://www.ffaiarts.net){:target="_blank"}

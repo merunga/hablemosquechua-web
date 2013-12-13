@@ -10,7 +10,7 @@ title: hablemosquechua - ¿Cómo?
 * Retuitea, responde a las preguntas, pregunta, ¡participa!
 * Menciona a @hq con el formato: Cómo se dice "palabraespañol"? y espera la respuesta por DM (debes seguir a @hq recibir DM).
 * Estate atento a los distintos concursos y desafíos : D
-* ¡Visita a @hablemosquechua en [facebook](https://facebook.com/hablemosqeuchua){:target="_blank"} y ayúdanos a difundir el quechua!
+* ¡Visita a @hablemosquechua en [facebook](https://www.facebook.com/pages/Hablemos-Quechua/115844255170141?fref=ts){:target="_blank"} y ayúdanos a difundir el quechua!
 
 ### Especialistas:
 * Si eres quechuahablante y quieres participar actívamente, ponte en contacto 
