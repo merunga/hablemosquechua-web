@@ -32,4 +32,7 @@ re-conectando...
 }(document, 'script', 'facebook-jssdk'));</script>
 </div>
 
+<div class="fb-share-button" data-href="https://www.facebook.com/pages/Hablemos-Quechua/115844255170141?fref=ts" data-type="button_count"></div>
+
+
 # visita a [@hablemosquechua en twitter](http://twitter.com/hablemosquechua){:target="_blank"}
