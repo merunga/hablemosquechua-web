@@ -5,7 +5,7 @@ title: hablemosquechua - acercade
 ## ¿qué es [@hablemosquechua](https://twitter.com/hablemosquechua)?
 
 La [cuenta twitter](https://twitter.com/hablemosquechua) es manejada por un robot,
-que -en colaboración con humanos- reconecta glosarios, suelta ideas, inicia diálogos, insertando el 
+que -en colaboración con humanos- enlaza diccionarios, reconecta glosarios, suelta ideas, inicia diálogos, insertando el 
 quechua en las redes sociales. 
 
 @hablemosquechua nació como experimento/prototipo en [@escuelab](http://twitter.com/escuelab){:target="_blank"} a mediados de 2011. un [video](http://www.youtube.com/watch?v=l4NFPkpkIzQ){:target="_blank"} cuenta la historia . 
