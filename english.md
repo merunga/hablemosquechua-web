@@ -3,7 +3,7 @@ layout: default
 title: hablemosquechua - Ejemplos
 ---
 
-#Acerca De
+#About
 
 ## ¿what is [@hablemosquechua](https://twitter.com/hablemosquechua)?
 
@@ -95,7 +95,7 @@ An -almost- inmediate instance of @hablemosquechua, could be @hablemosnahuat (an
 - "wherisXlocated?"
 - thecolorsoftheflags
 - who wrote what
-- artistsinyourtow
+- artistsinyourtown
 - etc...
 
 ## Two ways to replicate @hablemosquechua:
@@ -111,7 +111,7 @@ You can very easily replicate the operation of @hablemosquechua, but using the p
 * define and activate tweeting saesons. 
 * done!
 
-### 2) Replicate the complete hablemosquehcua robot ¡on your own services! 
+### 2) Replicate the complete hablemosquehcua robot ¡on your own server! 
 * The source-code is [here](https://github.com/merunga/hablemosquechua/){:target="_blank"}
 
 

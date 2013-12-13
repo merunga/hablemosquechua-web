@@ -26,6 +26,7 @@ quechua en las redes sociales.
 - explorar la vida artificial / interacción robot-comunidad como estrategia para mantener viva una lengua.
 - ofrecer un kit de servicios y soluciones de código abierto para ir al rescate de otras lenguas y dialectos. 
 
+
 ## ¿puedo participar en @hablemosquechua?
 
 Actualmente @hq es mantenido por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que podamos rotar, incorporando otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente y volverte DJ de @hq por alguna temporada, puedes convertirte en poteta quechua y co-promotor en @hq. Para discutir esta posibilidad contacta a [@sankaypillo](http://twitter.com/sankaypillo) y veremos de probar estas rotaciones en los primeros meses de 2014. 
@@ -56,5 +57,5 @@ por el apoyo al desarrollo de la primera versión relativamente estable a finale
 - Los sucesivos programas de automatización y administración han sido desarrollados por [@marianocrowe](http://twitter.com/marianocrowe){:target="_blank"} inicialmente como maqueta en php, posteriormente en javascript (cliente y servidor) El código es liberado bajo licencia GPL.
 - La educación al robot en poesía y lengua quechua se la debemos a [@sankaypillo](http://twitter.com/sankaypillo){:target="_blank"}, 
 - La idea de un robot venía de [@kikomayorga](http://twitter.com/kikomayorga){:target="_blank"} y los [ambientes de estereorealidad](http://www.youtube.com/watch?v=R6_0QouYptE){:target="_blank"}. 
-- Pero nada hubiese sucedido sin la ayuda de Jorge Villacorta, [José Carlos Mariátegui](http://twitter.com/tupacamauta){:target="_blank"}, [@escuelab](http://twitter.com/escuelab){:target="_blank"}, @ata (rev), @ffai
+- Pero nada de esto se hubiese concretado sin la visión y ayuda de Jorge Villacorta, [José Carlos Mariátegui](http://twitter.com/tupacamauta){:target="_blank"}, [@escuelab](http://twitter.com/escuelab){:target="_blank"}, [@ata](ata.org.pe).
 - La inspiración, en definitiva se la debemos a Amos Batto y a [@runasimipi](http://twitter.com/runasimipi){:target="_blank"}. 
