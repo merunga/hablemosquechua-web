@@ -22,6 +22,7 @@ The [twitter account](https://twitter.com/hablemosquechua) is controlled by a ro
 - re-communicates other resources and services vinculated to the quechua language.
 
 ## ¿How does it work?
+---------------------
 
 ### Users/Enthusiasts:
 * ¡Follow [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} on Twitter!
@@ -38,6 +39,7 @@ The [twitter account](https://twitter.com/hablemosquechua) is controlled by a ro
 * If you are a developer, you can clone, fork, evolve and merge @hablemosquechua! The code is [here](https://github.com/merunga/hablemosquechua/){:target="_blank"} If you have an idea of how to make a better kind of an animal out of this robot we please ask you to get in touch with [@marianocrowe](http://twitter.com/marianocrowe){:target="_blank"}
 
 #Do it YOURSELF!!!
+------------------
 
 (note: this documentation does vary and is usualy better updated in spanish)
 
