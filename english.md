@@ -113,5 +113,5 @@ for the support to the first relatively stable version close to the end of 2013.
 - The education of the robot in poetry and quechua language gets done by [@sankaypillo](http://twitter.com/sankaypillo){:target="_blank"}, 
 - The robot idea came from [@kikomayorga](http://twitter.com/kikomayorga){:target="_blank"} and the [stereoreality environments](http://www.youtube.com/watch?v=R6_0QouYptE){:target="_blank"}. 
 - But nothing of this would have been possible without the vision and support from Jorge Villacorta, [José Carlos Mariátegui](http://twitter.com/tupacamauta){:target="_blank"}, [@escuelab](http://twitter.com/escuelab){:target="_blank"}, [ATA](http://ata.org.pe/){:target="_blank"}, [@ffai](http://www.ffaiarts.net/){:target="_blank"}
-- The inspiration deffinitely came from the work of Amos Batto and the work from [@runasimipi](http://twitter.com/runasimipi){:target="_blank"}.
+- The inspiration deffinitely came from the work of Amos Batto and [@runasimipi](http://twitter.com/runasimipi){:target="_blank"}.
 
