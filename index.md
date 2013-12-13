@@ -13,5 +13,3 @@ La [cuenta twitter](https://twitter.com/hablemosquechua) es manejada por un robo
 algo de quechua en el nudo de lo instantáneo.
 
 re-conectando...
-
-## ¡Ya somos 6500 los seguidores de [@hablemosquechua](https://twitter.com/hablemosquechua{:target="_blank"})!!!

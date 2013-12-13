@@ -5,9 +5,6 @@ title: hablemosquechua - ¿Cómo?
 
 #Cómo usar @hq?
 
-## *** NOTAR QUE TODAS LAS FUNCIONALIDADES SE ENCUETRAN EN ESTADO DE PRUEBAS ***
-(encaso tengas preguntas, escríbenos a hablemosquechua [arroba] escuelab.org)
-
 ### Usuarios/Entusiastas:
 * ¡Sigue a [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} en Twitter!
 * Retuitea, responde a las preguntas, pregunta, ¡participa!
@@ -23,12 +20,4 @@ que tome control de tu propio perfil de twitter (como explicamos [aquí](http://
 
 ### Desarrolladores:
 * Si eres desarrollador ¡Clona y evoluciona a @hablemosquechua! El código está [aquí](https://github.com/merunga/hablemosquechua-web/){:target="_blank"} Si tienes una idea para mejorar al bicho contacta a [@marianocrowe](http://twitter.com/marianocrowe)
-
-#Cómo funciona @hq?
-* primero tienes una cuenta twitter
-* la sincronizas en robot.hablemosquechua.org
-* creas un diccionario.
-* creas frases o preguntas.
-* las programas.
-* ¡y listo!
 

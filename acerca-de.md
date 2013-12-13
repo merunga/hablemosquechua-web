@@ -5,12 +5,19 @@ title: hablemosquechua - acercade
 ### ¿qué es [@hablemosquechua](https://twitter.com/hablemosquechua)?
 La [cuenta twitter](https://twitter.com/hablemosquechua) es manejada por un robot
 que en colaboración con humanos reconecta diccionarios, inicia diálogos, rebota ideas dosificando 
-quechua en las redes sociales.
+quechua en las redes sociales. @hablemosquechua nació como experimento/prototipo en @escuelab a mediados de 2011. un video cuenta la historia [LINK]. 
+
+
+
+>     A mediados de 2011, en menos de 6 horas se montó una primera versión funcional.
+
+>             En las primeras horas el robot había superado los 100 seguidores...
+
 
 
 ### ¿qué hace @hablemosquechua?
 
-- emite espontáneamente frases que toman palabras de diccionarios quechua-español. 
+- emite espontáneamente por twitter, frases completadas por palabras de diccionarios quechua-español. 
 - funciona como diccionario interactivo al que le haces preguntas y responde por DM. 
 - realiza experimentos con concursos de vocabulario, gramática y más. 
 - re-difunde recursos y servicios vinculados a la lengua quechua. 
@@ -23,16 +30,6 @@ quechua en las redes sociales.
 
 ### ¿quiénes cuidan de @hablemosquechua?
 
-@hablemosquechua nació como experimento/prototipo en @escuelab a mediados de 2011. un video cuenta la historia [LINK]
-En menos de 6 horas se montó una primera versión funcional. En las primeras horas el robot había alcanzado 100 seguidores.
-
-Vemos a @hablemosquechua como un experimento tecno-socio-cultural.
-- Los sucesivos programas de automatización y administración han sido desarrollados por [@marianocrowe](http://twitter.com/marianocrowe) inicialmente como maqueta en php, posteriormente en javascript (cliente y servidor) El código es liberado bajo licencia GPL.
-- La educación al robot en poesía y lengua quechua se la agradecemos a [@sankaypillo](http://twitter.com/sankaypillo), 
-- La idea de un robot venía de [@kikomayorga](http://twitter.com/kikomayorga) y los [ambientes de estereorealidad](http://www.youtube.com/watch?v=R6_0QouYptE). 
-- Pero nada hubiese sucedido sin la ayuda de Jorge Villacorta, José Carlos Mariátegui, @escuelab, @ata (rev), @ffai
-- La inspiración, en definitiva se la debemos a Amos Batto y [@runasimipi](http://twitter.com/runasimipi). 
-
 [@hablemosquechua](https://twitter.com/hablemosquechua){:target="_blank"} es un experimento iniciado por
 [@sankaypillo](https://twitter.com/sankaypillo){:target="_blank"},
 [@kikomayorga](https://twitter.com/kikomayorga){:target="_blank"}
@@ -43,9 +40,15 @@ y [@marianocrowe](https://twitter.com/marianocrowe){:target="_blank"} en 2011, e
 [The Foundation for Arts Inniciatives](http://www.ffaiarts.net){:target="_blank"}
 por el apoyo al desarrollo de la primera versión relativamente estable a finales de 2013.
 
-### ¿quién adminsitra @hablemosquechua?
+- Los sucesivos programas de automatización y administración han sido desarrollados por [@marianocrowe](http://twitter.com/marianocrowe){:target="_blank"} inicialmente como maqueta en php, posteriormente en javascript (cliente y servidor) El código es liberado bajo licencia GPL.
+- La educación al robot en poesía y lengua quechua se la debemos a [@sankaypillo](http://twitter.com/sankaypillo){:target="_blank"}, 
+- La idea de un robot venía de [@kikomayorga](http://twitter.com/kikomayorga){:target="_blank"} y los [ambientes de estereorealidad](http://www.youtube.com/watch?v=R6_0QouYptE){:target="_blank"}. 
+- Pero nada hubiese sucedido sin la ayuda de Jorge Villacorta, [José Carlos Mariátegui](http://twitter.com/tupacamauta){:target="_blank"}, [@escuelab](http://twitter.com/escuelab){:target="_blank"}, @ata (rev), @ffai
+- La inspiración, en definitiva se la debemos a Amos Batto y a [@runasimipi](http://twitter.com/runasimipi){:target="_blank"}. 
 
-Actualmente @hq es administrado por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que los administradores puedan rotar, incluyéndose a otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente, puedes convertirte en co-promotor de @hq. Para discutir esta posibilidad contacta a [@sankaypillo](http://twitter.com/sankaypillo). 
+### ¿puedo participar en @hablemosquechua?
+
+Actualmente @hq es mantenido por @sankaypillo, @marianocrowe, @kikomayorga. Sin embargo, la idea es que podamos rotar, incorporando otros usuarios de twitter y quechuahablantes interesados en colaborar con la iniciativa. Si hablas y escribes quechua y estás interesado en participar actívamente y volverte DJ de @hq por alguna temporada, puedes convertirte en poteta quechua y co-promotor en @hq. Para discutir esta posibilidad contacta a [@sankaypillo](http://twitter.com/sankaypillo) y veremos de probar estas rotaciones en los primeros meses de 2014. 
 
 
 ### ¿qué quechua usa actualmente la plataforma?
@@ -58,13 +61,3 @@ Actualmente @hq es administrado por @sankaypillo, @marianocrowe, @kikomayorga. S
 > Hablemosquechuapiqa pampachakuyta mañarikuyku quechua Cusco-collao sutichasqa akllasqaykumanta, hinallataq ch'ulla qillqalla mast'arisqaykumantapas.
 > Yachaykupunim mana kikinta llapa suyukunapi qillqakusqanta, kayqa ñataq umallisqa huñukuykuna utaq simi yachay kamachiqkuna kayninta hukninta wakniraqninta hinalla mast'ariptinku, hinallataq yupaychaykupuni llapa runakuna machkariwaspanku qhawapawasqankuta mañarikuwasqankutapas sapa rimay ''waqlli qillqasqa kaqmanta''. Llapa Perú suyupi hinallataq Abyayalap uraynin, Latinoamerica nisqapipas, sapa hukniraq rimay kasqanmantaqa hinallataq yachapakunata riqsinakunatapas astawanmi yachaykumanmi, ichaqa kunanqa haywarikuq hinalla huñusqakunam kayku, hinallataq contextos tecnológicos nispapi siminchik imayna mast'arikunantam k'uskispa qhawachkayku. Wakichinaykupiqa kachkapunim robot nisqachata aswan puriyachispa sapan suyupi, imayna rimasqanta astawan kikin kaqta riqsichinapaq.
 >Añayukuykichik pampachasqaykichikta!!!!!
-
-
-### ¿quién es @hablemosquechua?
-
-
-
-El código detrás del robot se encuentra liberado bajo licencia GPL y puede ser revisado en el siguiente enlace [link]. Quien esté interesado puede muy fácilmente copiar y modificar el código de @hq para sus propios fines.
-
-
-
